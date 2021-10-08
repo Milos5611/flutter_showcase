@@ -84,7 +84,7 @@ class _HomeScreenState extends State<HomeScreen> {
               padding: listViewPadding,
               children: [
                 Text(
-                  "Shop by Category",
+                  "Shop by something",
                   style: Theme.of(context).textTheme.headline5,
                 ),
                 const SizedBox(height: 16),

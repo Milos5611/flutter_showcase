@@ -1,6 +1,22 @@
-# flutter_showcase
+# flutter_showcase Prodyna
 
-A new Flutter project.
+## Start the showcase App
+To run the App you have to open it in IntelliJ or VSCode. 
+For both tool i have exported configuration and launchers.
+Depending on OS where you want to try it, just chose the device and run coresponding 
+configuration.
+
+Something like:
+- For web: chose Chrome and run `Run on Mobile`
+- For desktop: chose macOS and run `Run on MacOS`
+- For mobile: chose IOS or Android and run `Run on Mobile`
+
+## Point of Contact
+
+| Role            | Name          | Email                                                                | Teams          |
+| --------------- | ------------- | -------------------------------------------------------------------- | -------------- |
+| _Maintainer_    | Milos Nikolic | [milos.nikolic@prodyna.com](mailto:milos.nikolic@prodyna.com)        | @Milos Nikolic |
+
 
 ## Getting Started
 
