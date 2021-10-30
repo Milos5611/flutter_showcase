@@ -1,5 +1,7 @@
 # flutter_showcase Prodyna
 
+[![Codemagic build status](https://api.codemagic.io/apps/617d408e54ed64026860e0b9/617d408e54ed64026860e0b8/status_badge.svg)](https://codemagic.io/apps/617d408e54ed64026860e0b9/617d408e54ed64026860e0b8/latest_build)
+
 ## Start the showcase App
 To run the App you have to open it in IntelliJ or VSCode. 
 For both tool i have exported configuration and launchers.
